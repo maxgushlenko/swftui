@@ -16,6 +16,8 @@
 		4EB674522B56C6B900A1E2C1 /* SwiftUIPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB674512B56C6B900A1E2C1 /* SwiftUIPracticeTests.swift */; };
 		4EB6745C2B56C6B900A1E2C1 /* SwiftUIPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB6745B2B56C6B900A1E2C1 /* SwiftUIPracticeUITests.swift */; };
 		4EB6745E2B56C6B900A1E2C1 /* SwiftUIPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB6745D2B56C6B900A1E2C1 /* SwiftUIPracticeUITestsLaunchTests.swift */; };
+		4EC501CD2B56D81600DAFEE4 /* Project1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC501CC2B56D81600DAFEE4 /* Project1.swift */; };
+		4EC501CF2B56D8F600DAFEE4 /* Project1part2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC501CE2B56D8F600DAFEE4 /* Project1part2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +50,8 @@
 		4EB674572B56C6B900A1E2C1 /* SwiftUIPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EB6745B2B56C6B900A1E2C1 /* SwiftUIPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeUITests.swift; sourceTree = "<group>"; };
 		4EB6745D2B56C6B900A1E2C1 /* SwiftUIPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4EC501CC2B56D81600DAFEE4 /* Project1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project1.swift; sourceTree = "<group>"; };
+		4EC501CE2B56D8F600DAFEE4 /* Project1part2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project1part2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 			children = (
 				4EB6743B2B56C6B700A1E2C1 /* SwiftUIPracticeApp.swift */,
 				4EB6743D2B56C6B700A1E2C1 /* ContentView.swift */,
+				4EC501CC2B56D81600DAFEE4 /* Project1.swift */,
+				4EC501CE2B56D8F600DAFEE4 /* Project1part2.swift */,
 				4EB6743F2B56C6B900A1E2C1 /* Assets.xcassets */,
 				4EB674442B56C6B900A1E2C1 /* Persistence.swift */,
 				4EB674462B56C6B900A1E2C1 /* SwiftUIPractice.xcdatamodeld */,
@@ -264,7 +270,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EB674452B56C6B900A1E2C1 /* Persistence.swift in Sources */,
+				4EC501CF2B56D8F600DAFEE4 /* Project1part2.swift in Sources */,
 				4EB6743E2B56C6B700A1E2C1 /* ContentView.swift in Sources */,
+				4EC501CD2B56D81600DAFEE4 /* Project1.swift in Sources */,
 				4EB674482B56C6B900A1E2C1 /* SwiftUIPractice.xcdatamodeld in Sources */,
 				4EB6743C2B56C6B700A1E2C1 /* SwiftUIPracticeApp.swift in Sources */,
 			);
