@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E51C08C2B5C17FF00DC7C6A /* ViewsAndModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E51C08B2B5C17FF00DC7C6A /* ViewsAndModifiers.swift */; };
+		4E580AAD2B6A96A70002D29C /* PaperScissorsRock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E580AAC2B6A96A70002D29C /* PaperScissorsRock.swift */; };
+		4E580AAF2B6BA3E40002D29C /* BetterRest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E580AAE2B6BA3E30002D29C /* BetterRest.swift */; };
+		4E580AB72B6BC6400002D29C /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4E580AB62B6BC6400002D29C /* SleepCalculator.mlmodel */; };
+		4E9D02322B7E56750026E7E7 /* WordScramble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D02312B7E56750026E7E7 /* WordScramble.swift */; };
+		4E9D02362B7E65B60026E7E7 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4E9D02352B7E65B60026E7E7 /* start.txt */; };
+		4E9D02382B835C6B0026E7E7 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D02372B835C6B0026E7E7 /* Animations.swift */; };
 		4EB6743C2B56C6B700A1E2C1 /* SwiftUIPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB6743B2B56C6B700A1E2C1 /* SwiftUIPracticeApp.swift */; };
 		4EB6743E2B56C6B700A1E2C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB6743D2B56C6B700A1E2C1 /* ContentView.swift */; };
 		4EB674402B56C6B900A1E2C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EB6743F2B56C6B900A1E2C1 /* Assets.xcassets */; };
@@ -18,6 +25,8 @@
 		4EB6745E2B56C6B900A1E2C1 /* SwiftUIPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB6745D2B56C6B900A1E2C1 /* SwiftUIPracticeUITestsLaunchTests.swift */; };
 		4EC501CD2B56D81600DAFEE4 /* Project1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC501CC2B56D81600DAFEE4 /* Project1.swift */; };
 		4EC501CF2B56D8F600DAFEE4 /* Project1part2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC501CE2B56D8F600DAFEE4 /* Project1part2.swift */; };
+		4EC501F82B59B8A600DAFEE4 /* ButtonAndAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC501F72B59B8A600DAFEE4 /* ButtonAndAlert.swift */; };
+		4EC501FA2B59C3C700DAFEE4 /* GuessTheFlag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC501F92B59C3C700DAFEE4 /* GuessTheFlag.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +47,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E51C08B2B5C17FF00DC7C6A /* ViewsAndModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndModifiers.swift; sourceTree = "<group>"; };
+		4E580AAC2B6A96A70002D29C /* PaperScissorsRock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaperScissorsRock.swift; sourceTree = "<group>"; };
+		4E580AAE2B6BA3E30002D29C /* BetterRest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRest.swift; sourceTree = "<group>"; };
+		4E580AB62B6BC6400002D29C /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = SOURCE_ROOT; };
+		4E9D02312B7E56750026E7E7 /* WordScramble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScramble.swift; sourceTree = "<group>"; };
+		4E9D02352B7E65B60026E7E7 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		4E9D02372B835C6B0026E7E7 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
 		4EB674382B56C6B700A1E2C1 /* SwiftUIPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EB6743B2B56C6B700A1E2C1 /* SwiftUIPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeApp.swift; sourceTree = "<group>"; };
 		4EB6743D2B56C6B700A1E2C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,6 +68,8 @@
 		4EB6745D2B56C6B900A1E2C1 /* SwiftUIPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4EC501CC2B56D81600DAFEE4 /* Project1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project1.swift; sourceTree = "<group>"; };
 		4EC501CE2B56D8F600DAFEE4 /* Project1part2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project1part2.swift; sourceTree = "<group>"; };
+		4EC501F72B59B8A600DAFEE4 /* ButtonAndAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAndAlert.swift; sourceTree = "<group>"; };
+		4EC501F92B59C3C700DAFEE4 /* GuessTheFlag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlag.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,9 +124,18 @@
 				4EB6743D2B56C6B700A1E2C1 /* ContentView.swift */,
 				4EC501CC2B56D81600DAFEE4 /* Project1.swift */,
 				4EC501CE2B56D8F600DAFEE4 /* Project1part2.swift */,
+				4EC501F72B59B8A600DAFEE4 /* ButtonAndAlert.swift */,
+				4EC501F92B59C3C700DAFEE4 /* GuessTheFlag.swift */,
+				4E51C08B2B5C17FF00DC7C6A /* ViewsAndModifiers.swift */,
+				4E580AAC2B6A96A70002D29C /* PaperScissorsRock.swift */,
+				4E580AAE2B6BA3E30002D29C /* BetterRest.swift */,
+				4E9D02312B7E56750026E7E7 /* WordScramble.swift */,
+				4E9D02372B835C6B0026E7E7 /* Animations.swift */,
 				4EB6743F2B56C6B900A1E2C1 /* Assets.xcassets */,
 				4EB674442B56C6B900A1E2C1 /* Persistence.swift */,
+				4E580AB62B6BC6400002D29C /* SleepCalculator.mlmodel */,
 				4EB674462B56C6B900A1E2C1 /* SwiftUIPractice.xcdatamodeld */,
+				4E9D02352B7E65B60026E7E7 /* start.txt */,
 				4EB674412B56C6B900A1E2C1 /* Preview Content */,
 			);
 			path = SwiftUIPractice;
@@ -244,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EB674432B56C6B900A1E2C1 /* Preview Assets.xcassets in Resources */,
+				4E9D02362B7E65B60026E7E7 /* start.txt in Resources */,
 				4EB674402B56C6B900A1E2C1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,12 +297,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E9D02322B7E56750026E7E7 /* WordScramble.swift in Sources */,
 				4EB674452B56C6B900A1E2C1 /* Persistence.swift in Sources */,
 				4EC501CF2B56D8F600DAFEE4 /* Project1part2.swift in Sources */,
 				4EB6743E2B56C6B700A1E2C1 /* ContentView.swift in Sources */,
+				4E51C08C2B5C17FF00DC7C6A /* ViewsAndModifiers.swift in Sources */,
+				4E580AAF2B6BA3E40002D29C /* BetterRest.swift in Sources */,
+				4E9D02382B835C6B0026E7E7 /* Animations.swift in Sources */,
 				4EC501CD2B56D81600DAFEE4 /* Project1.swift in Sources */,
+				4EC501FA2B59C3C700DAFEE4 /* GuessTheFlag.swift in Sources */,
+				4E580AAD2B6A96A70002D29C /* PaperScissorsRock.swift in Sources */,
 				4EB674482B56C6B900A1E2C1 /* SwiftUIPractice.xcdatamodeld in Sources */,
 				4EB6743C2B56C6B700A1E2C1 /* SwiftUIPracticeApp.swift in Sources */,
+				4E580AB72B6BC6400002D29C /* SleepCalculator.mlmodel in Sources */,
+				4EC501F82B59B8A600DAFEE4 /* ButtonAndAlert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

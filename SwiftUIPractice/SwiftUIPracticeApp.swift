@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-
+// 32 for next practice (project 6) 
 
 @main
 struct SwiftUIPracticeApp: App {
@@ -15,13 +15,17 @@ struct SwiftUIPracticeApp: App {
 
     var body: some Scene {
         WindowGroup {
-//            Project1()
-            Project1part2()
-            
-            
-            
 //            ContentView()
 //                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+//            Project1()
+//            Project1part2()
+//            ButtonAndAlert()
+//            GuessTheFlag()
+//            ViewsAndModifiers()
+//            PaperScissorsRock()
+//            BetterRest()
+//            WordScramble()
+            Animations()
         }
     }
 }
