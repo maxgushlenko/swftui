@@ -78,7 +78,7 @@ struct Animations: View {
                 }
             }
             .padding(40)
-            .background(.pink)
+            .background(.yellow)
             .foregroundStyle(.white)
             .clipShape(.capsule)
             .rotation3DEffect(

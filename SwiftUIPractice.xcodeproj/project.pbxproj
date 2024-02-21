@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E4D35842B8387E80047AC4F /* iExpenseMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4D35832B8387E80047AC4F /* iExpenseMainView.swift */; };
+		4E4D86142B85FB7100636BA5 /* ExpensesAppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4D86132B85FB7100636BA5 /* ExpensesAppView.swift */; };
+		4E4D86162B86002200636BA5 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4D86152B86002200636BA5 /* AddView.swift */; };
+		4E4D861E2B86273500636BA5 /* MoonshotMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4D861D2B86273500636BA5 /* MoonshotMainView.swift */; };
 		4E51C08C2B5C17FF00DC7C6A /* ViewsAndModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E51C08B2B5C17FF00DC7C6A /* ViewsAndModifiers.swift */; };
 		4E580AAD2B6A96A70002D29C /* PaperScissorsRock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E580AAC2B6A96A70002D29C /* PaperScissorsRock.swift */; };
 		4E580AAF2B6BA3E40002D29C /* BetterRest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E580AAE2B6BA3E30002D29C /* BetterRest.swift */; };
@@ -47,6 +51,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E4D35832B8387E80047AC4F /* iExpenseMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iExpenseMainView.swift; sourceTree = "<group>"; };
+		4E4D86132B85FB7100636BA5 /* ExpensesAppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesAppView.swift; sourceTree = "<group>"; };
+		4E4D86152B86002200636BA5 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		4E4D861D2B86273500636BA5 /* MoonshotMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonshotMainView.swift; sourceTree = "<group>"; };
 		4E51C08B2B5C17FF00DC7C6A /* ViewsAndModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndModifiers.swift; sourceTree = "<group>"; };
 		4E580AAC2B6A96A70002D29C /* PaperScissorsRock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaperScissorsRock.swift; sourceTree = "<group>"; };
 		4E580AAE2B6BA3E30002D29C /* BetterRest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRest.swift; sourceTree = "<group>"; };
@@ -97,6 +105,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E4D35822B8387D50047AC4F /* iExpense */ = {
+			isa = PBXGroup;
+			children = (
+				4E4D35832B8387E80047AC4F /* iExpenseMainView.swift */,
+				4E4D86132B85FB7100636BA5 /* ExpensesAppView.swift */,
+				4E4D86152B86002200636BA5 /* AddView.swift */,
+			);
+			path = iExpense;
+			sourceTree = "<group>";
+		};
+		4E4D861C2B86271100636BA5 /* Moonshot */ = {
+			isa = PBXGroup;
+			children = (
+				4E4D861D2B86273500636BA5 /* MoonshotMainView.swift */,
+			);
+			path = Moonshot;
+			sourceTree = "<group>";
+		};
 		4EB6742F2B56C6B700A1E2C1 = {
 			isa = PBXGroup;
 			children = (
@@ -131,6 +157,8 @@
 				4E580AAE2B6BA3E30002D29C /* BetterRest.swift */,
 				4E9D02312B7E56750026E7E7 /* WordScramble.swift */,
 				4E9D02372B835C6B0026E7E7 /* Animations.swift */,
+				4E4D861C2B86271100636BA5 /* Moonshot */,
+				4E4D35822B8387D50047AC4F /* iExpense */,
 				4EB6743F2B56C6B900A1E2C1 /* Assets.xcassets */,
 				4EB674442B56C6B900A1E2C1 /* Persistence.swift */,
 				4E580AB62B6BC6400002D29C /* SleepCalculator.mlmodel */,
@@ -304,8 +332,12 @@
 				4E51C08C2B5C17FF00DC7C6A /* ViewsAndModifiers.swift in Sources */,
 				4E580AAF2B6BA3E40002D29C /* BetterRest.swift in Sources */,
 				4E9D02382B835C6B0026E7E7 /* Animations.swift in Sources */,
+				4E4D86142B85FB7100636BA5 /* ExpensesAppView.swift in Sources */,
+				4E4D86162B86002200636BA5 /* AddView.swift in Sources */,
+				4E4D35842B8387E80047AC4F /* iExpenseMainView.swift in Sources */,
 				4EC501CD2B56D81600DAFEE4 /* Project1.swift in Sources */,
 				4EC501FA2B59C3C700DAFEE4 /* GuessTheFlag.swift in Sources */,
+				4E4D861E2B86273500636BA5 /* MoonshotMainView.swift in Sources */,
 				4E580AAD2B6A96A70002D29C /* PaperScissorsRock.swift in Sources */,
 				4EB674482B56C6B900A1E2C1 /* SwiftUIPractice.xcdatamodeld in Sources */,
 				4EB6743C2B56C6B700A1E2C1 /* SwiftUIPracticeApp.swift in Sources */,

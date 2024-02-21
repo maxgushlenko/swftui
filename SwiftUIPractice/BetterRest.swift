@@ -84,7 +84,6 @@ struct BetterRest: View {
             alertMessage = "Sorry, there was a problem calculating your bedtime."
         }
         
-        let myEnumValue = TestEnum(rawValue: "asfas")
         
         showingAlert = true
     }

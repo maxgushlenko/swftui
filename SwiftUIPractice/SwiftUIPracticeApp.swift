@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-// 32 for next practice (project 6) 
+// 39.4 for next practice (project 8)
 
 @main
 struct SwiftUIPracticeApp: App {
@@ -25,7 +25,10 @@ struct SwiftUIPracticeApp: App {
 //            PaperScissorsRock()
 //            BetterRest()
 //            WordScramble()
-            Animations()
+//            Animations()
+//            iExpenseMainView()
+//            ExpensesAppView()
+            MoonshotMainView()
         }
     }
 }
